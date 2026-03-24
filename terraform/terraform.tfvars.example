@@ -1,0 +1,15 @@
+# Terraform Variables Example
+
+# Set the project name
+project_name = "example-project"
+
+# Set the region
+region = "us-west-1"
+
+# Set the instance type
+instance_type = "t2.micro"
+
+# Enter any other variable examples below:
+
+# Set the desired number of instances
+instance_count = 1
